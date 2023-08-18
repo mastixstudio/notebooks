@@ -15,7 +15,7 @@ This repository contains a series of Jupyter notebooks that delve into variety o
 
 ## List of Notebooks
 
-- **[Loan book workflow](./notebooks/Analysis of loan book.ipynb)**
+- **[Loan book workflow](Analysis of loan book.ipynb)**
   - An example workflow for a loan book: valuation and risk calculations.
 
 ## License

@@ -1,17 +1,13 @@
-# Jupyter Notebooks
+# MASTIX Studio Jupyter Notebooks
 
-A collection of Jupyter notebooks covering a variety of use cases for MASTIX Studio.
+A collection of Jupyter notebooks with tutorials and use cases for MASTIX Studio.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [List of Notebooks](#list-of-notebooks)
 - [License](#license)
 - [Contact](#contact)
 
-## Introduction
-
-This repository contains a series of Jupyter notebooks that delve into variety of use cases for MASTIX Studio.
 
 ## List of Notebooks
 
@@ -24,11 +20,11 @@ This repository contains a series of Jupyter notebooks that delve into variety o
 
 The Jupyter notebooks in this repository are free to use, distribute, and modify. They are distributed under the Apache License 2.0. See [LICENSE](./LICENSE) for more information.
 
-### MASTIX Studio Library
+### MASTIX Studio
 
-The underlying library, "MASTIX Studio", **requires a license** and is not included within this repository. Anyone interested in using the "MASTIX Studio" library or obtaining a license should get in touch with us via [info@mastix.se](mailto:info@mastix.se). 
+The calculation library MASTIX Studio **requires a license** and is not included within this repository. Anyone interested in using MASTIX Studio should get in touch with us via [info@mastix.se](mailto:info@mastix.se). 
 
-For additional information about "MASTIX Studio", please refer to the official [MASTIX Studio website](http://www.mastix.se).
+For additional information about MASTIX Studio, please refer to the official [MASTIX Studio website](http://www.mastix.se).
 
 ## Contact
 

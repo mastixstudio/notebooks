@@ -13,6 +13,9 @@ A collection of Jupyter notebooks with tutorials and use cases for MASTIX Studio
 
 - **[Loan book workflow](./analysis_of_loan_book.ipynb)**
   - An example workflow for a loan book: valuation and risk calculations.
+  - 
+- **[Fundamentals: constants, calculations and derivatives](./constants_calculations_derivatives.ipynb)**
+  - An example workflow for a loan book: valuation and risk calculations.
 
 ## License
 

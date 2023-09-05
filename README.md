@@ -4,12 +4,10 @@ A collection of Jupyter notebooks with tutorials and use cases for MASTIX Studio
 
 ## Table of Contents
 
-- [List of Notebooks](#list-of-notebooks)
+- [Overview of Notebooks](#overview-of-notebooks)
 - [License](#license)
-- [Contact](#contact)
 
-
-## List of Notebooks
+## Overview of Notebooks
 
 ### Fundamentals
 - **[Constants, calculations and derivatives](./constants_calculations_derivatives.ipynb):**  Basic functionality. Labeling and grouping of constants. Defining calculations and retrieving derivatives.
@@ -30,6 +28,4 @@ The Jupyter notebooks in this repository are free to use, distribute, and modify
 
 ### MASTIX Studio
 
-The calculation library MASTIX Studio **requires a license** and is not included within this repository. Anyone interested in using MASTIX Studio should get in touch with us via [info@mastix.se](mailto:info@mastix.se). 
-
-For additional information about MASTIX Studio, please connect with us on [LinkedIn](https://www.linkedin.com/company/mastix) or reach out to [info@mastix.se](mailto:info@mastix.se).
+MASTIX Studio **requires a license** and is not included within this repository. For additional information about MASTIX Studio, please connect with us on [LinkedIn](https://www.linkedin.com/company/mastix) or reach out to [info@mastix.se](mailto:info@mastix.se).

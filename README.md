@@ -11,10 +11,16 @@ A collection of Jupyter notebooks with tutorials and use cases for MASTIX Studio
 
 ## List of Notebooks
 
-- **[Loan book workflow](./analysis_of_loan_book.ipynb)**
-  - An example workflow for a loan book: valuation and risk calculations.
-- **[Fundamentals: constants, calculations and derivatives](./constants_calculations_derivatives.ipynb)**
-  - Basic functionality. Labeling and grouping of constants. Defining calculations and retrieving derivatives.
+### Fundamentals
+- **[Constants, calculations and derivatives](./constants_calculations_derivatives.ipynb):**  Basic functionality. Labeling and grouping of constants. Defining calculations and retrieving derivatives.
+
+- **[Functions](./constants_calculations_derivatives.ipynb):** Using built-in functions. Defining new functions.
+
+### Applications
+- **[Basics of change attribution analysis](./constants_calculations_derivatives.ipynb):** Explanining the changes in a simple calculation using the attribution tools.
+
+### Use-cases
+- **[Loan book workflow](./analysis_of_loan_book.ipynb)**: An example workflow for a loan book: valuation and risk calculations.
 
 ## License
 
@@ -26,8 +32,4 @@ The Jupyter notebooks in this repository are free to use, distribute, and modify
 
 The calculation library MASTIX Studio **requires a license** and is not included within this repository. Anyone interested in using MASTIX Studio should get in touch with us via [info@mastix.se](mailto:info@mastix.se). 
 
-For additional information about MASTIX Studio, please refer to the official [MASTIX Studio website](http://www.mastix.se).
-
-## Contact
-
-For any inquiries, please reach out to [info@mastix.se](mailto:info@mastix.se) or visit [our website](http://www.mastix.se).
+For additional information about MASTIX Studio, please connect with us on [LinkedIn](https://www.linkedin.com/company/mastix) or reach out to [info@mastix.se](mailto:info@mastix.se).

@@ -11,12 +11,12 @@ A collection of Jupyter notebooks with tutorials and use cases for MASTIX Studio
 
 ### Fundamentals
 - **[Constants, calculations and derivatives](./constants_calculations_derivatives.ipynb):**  Basic functionality. Labeling and grouping of constants. Defining calculations and retrieving derivatives.
-
+<!-- 
 - **[Functions](./constants_calculations_derivatives.ipynb):** Using built-in functions. Defining new functions.
 
 ### Applications
 - **[Basics of change attribution analysis](./constants_calculations_derivatives.ipynb):** Explanining the changes in a simple calculation using the attribution tools.
-
+-->
 ### Use-cases
 - **[Loan book workflow](./analysis_of_loan_book.ipynb)**: An example workflow for a loan book: valuation and risk calculations.
 

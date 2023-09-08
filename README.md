@@ -16,9 +16,14 @@ A collection of Jupyter notebooks with tutorials and use cases for MASTIX Studio
 
 ### Applications
 - **[Basics of change attribution analysis](./constants_calculations_derivatives.ipynb):** Explanining the changes in a simple calculation using the attribution tools.
--->
+
 ### Use-cases
 - **[Loan book workflow](./analysis_of_loan_book.ipynb)**: An example workflow for a loan book: valuation and risk calculations.
+
+
+-->
+### Use-cases
+- **[Analysis of loan book](./pandas_analysis_loan_book.ipynb)**: Pandas analysis of loan book calculations. Dataframes populated with pre-calculated valuations and risks.
 
 ## License
 

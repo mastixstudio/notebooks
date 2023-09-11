@@ -2,6 +2,9 @@
 
 A collection of Jupyter notebooks with tutorials and use cases for MASTIX Studio.
 
+>Note: This section is currently under construction. We're actively working to expand our Jupyter notebook repository, and more notebooks showcasing MASTIX Studio's capabilities will be available shortly. Thank you for your patience.
+
+
 ## Table of Contents
 
 - [Overview of Notebooks](#overview-of-notebooks)

@@ -27,7 +27,7 @@ A collection of Jupyter notebooks showcasing fundamental funtionality and use ca
 -->
 ### Use cases
 - **[Pandas Analysis of Loan Book](./pandas_analysis_loan_book.ipynb)**: One possible setup with MASTIX Studio is running scheduled batch calculations and analyzing the results using analytics libraries. Among data scientists, the Pandas Python library is particularly popular. In this notebook, we demonstrate how to initiate a cash flow analysis using Pandas. We populate Pandas DataFrames with pre-calculated valuations and risks, and then perform some aggregations and visualizations.  
-[View notebook on nbviewer](https://nbviewer.org/github/mastixstudio/notebooks/blob/main/pandas_analysis_loan_book.ipynb)
+[View notebook on nbviewer](https://nbviewer.org/github/mastixstudio/notebooks/blob/main/pandas_analysis_loan_book.ipynb?flush_cache=true)
 
 ## License
 

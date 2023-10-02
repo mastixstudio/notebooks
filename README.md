@@ -15,7 +15,7 @@ A collection of Jupyter notebooks showcasing fundamental funtionality and use ca
 ### Fundamentals
 - **[Constants, Calculations and Derivatives](./constants_calculations_derivatives.ipynb):**  Explore the core of MASTIX Studio. Learn to label and group constants, define calculations, and retrieve derivatives.
  
-- **Functions:** ***Coming soon!*** Dive into MASTIX Studio's built-in functions and learn to create custom ones. This notebook features some analysis of the Black-Scholes option pricing formula, including parameter solutions using a numerical solver.
+- **Functions:** ***Coming soon!*** Discover MASTIX Studio's built-in functions and learn to create custom ones. This notebook features some basic analysis of the Black-Scholes option pricing formula, including solving for parameter values using a numerical solver.
 
 <!--
 ### Applications
@@ -31,7 +31,14 @@ A collection of Jupyter notebooks showcasing fundamental funtionality and use ca
 
 - **Basics of Change Attribution Analysis:** ***Coming soon!*** Explaining the changes in a simple calculation using the attribution tools.
 
-- **Next-Generation ALM:** ***Coming soon!*** Get a taste of next-generation ALM with this notebook. Explore the innovative tools in MASTIX Studio that are reshaping traditional ALM practices for the modern financial era.
+- **P&L Explain (Change Attribution Analysis of Present Value):** ***Coming soon!*** Explaining the changes in the present value of a portfolio with 20 000 interest rate swaps.
+
+- **Next-Generation ALM I (Holistic Risk):** ***Coming soon!*** An illustration of the holistic treatment of contracts that underpins next-gen ALM. 
+
+- **Next-Generation ALM II (Liquidity)** ***Coming soon!***
+
+- **[Next-Generation ALM II (IRRBB)](#use-cases)** ***Coming soon!***
+
 
 ## License
 

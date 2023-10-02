@@ -15,7 +15,7 @@ A collection of Jupyter notebooks showcasing fundamental funtionality and use ca
 ### Fundamentals
 - **[Constants, Calculations and Derivatives](./constants_calculations_derivatives.ipynb):**  Explore the core of MASTIX Studio. Learn to label and group constants, define calculations, and retrieve derivatives.
  
-- **Functions:** ***Coming soon!*** Discover MASTIX Studio's built-in functions and learn to create custom ones. This notebook features some basic analysis of the Black-Scholes option pricing formula, including solving for parameter values using a numerical solver.
+- **[Functions](#use-cases):** ***Coming soon!*** Discover MASTIX Studio's built-in functions and learn to create custom ones. This notebook features some basic analysis of the Black-Scholes option pricing formula, including solving for parameter values using a numerical solver.
 
 <!--
 ### Applications
@@ -29,15 +29,15 @@ A collection of Jupyter notebooks showcasing fundamental funtionality and use ca
 - **[Pandas Analysis of Loan Book](./pandas_analysis_loan_book.ipynb)**: One possible setup with MASTIX Studio is running scheduled batch calculations and analyzing the results using analytics libraries. Among data scientists, the Pandas Python library is particularly popular. In this notebook, we demonstrate how to initiate a cash flow analysis using Pandas. We populate Pandas DataFrames with pre-calculated valuations and risks, and then perform some aggregations and visualizations.  
 [View notebook on nbviewer](https://nbviewer.org/github/mastixstudio/notebooks/blob/main/pandas_analysis_loan_book.ipynb?flush_cache=true)
 
-- **Basics of Change Attribution Analysis:** ***Coming soon!*** Explaining the changes in a simple calculation using the attribution tools.
+- **[Basics of Change Attribution Analysis](#use-cases):** ***Coming soon!*** Explaining the changes in a simple calculation using the attribution tools.
 
-- **P&L Explain (Change Attribution Analysis of Present Value):** ***Coming soon!*** Explaining the changes in the present value of a portfolio with 20 000 interest rate swaps.
+- **[P&L Explain (Change Attribution Analysis of Present Value)](#use-cases):** ***Coming soon!*** Explaining the changes in the present value of a portfolio with 20 000 interest rate swaps.
 
-- **Next-Generation ALM I (Holistic Risk):** ***Coming soon!*** An illustration of the holistic treatment of contracts that underpins next-gen ALM. 
+- **[Next-Generation ALM I (Holistic Risk)](#use-cases):** ***Coming soon!*** An illustration of the holistic treatment of contracts that underpins next-gen ALM. 
 
-- **Next-Generation ALM II (Liquidity)** ***Coming soon!***
+- **[Next-Generation ALM II (Liquidity)](#use-cases):** ***Coming soon!***
 
-- **[Next-Generation ALM II (IRRBB)](#use-cases)** ***Coming soon!***
+- **[Next-Generation ALM II (IRRBB)](#use-cases):** ***Coming soon!***
 
 
 ## License

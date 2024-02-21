@@ -1,8 +1,8 @@
-# MASTIX Studio Jupyter Notebooks
+# MASTIX ALM Studio Jupyter Notebooks
 
-A collection of Jupyter notebooks showcasing fundamental funtionality and use cases for MASTIX Studio.
+A collection of Jupyter notebooks showcasing fundamental funtionality and use cases for MASTIX ALM Studio.
 
->Note: This section is currently under construction. We're actively working to expand our Jupyter notebook repository, and more notebooks showcasing MASTIX Studio's capabilities will be available shortly.
+>Note: This section is currently under construction. We're actively working to expand our Jupyter notebook repository, and more notebooks showcasing MASTIX ALM Studio's capabilities will be available shortly.
 
 
 ## Table of Contents
@@ -13,9 +13,9 @@ A collection of Jupyter notebooks showcasing fundamental funtionality and use ca
 ## Overview of Notebooks
 
 ### Fundamentals
-- **[Constants, Calculations and Derivatives](./constants_calculations_derivatives.ipynb):**  Explore the core of MASTIX Studio. Learn to label and group constants, define calculations, and retrieve derivatives.
+- **[Constants, Calculations and Derivatives](./constants_calculations_derivatives.ipynb):**  Explore the core of MASTIX ALM Studio. Learn to label and group constants, define calculations, and retrieve derivatives.
  
-- **[Functions](#use-cases):** ***Coming soon!*** Discover MASTIX Studio's built-in functions and learn to create custom ones. This notebook features some basic analysis of the Black-Scholes option pricing formula, including solving for parameter values using a numerical solver.
+- **[Functions](#use-cases):** ***Coming soon!*** Discover MASTIX ALM Studio's built-in functions and learn to create custom ones. This notebook features some basic analysis of the Black-Scholes option pricing formula, including solving for parameter values using a numerical solver.
 
 <!--
 ### Applications

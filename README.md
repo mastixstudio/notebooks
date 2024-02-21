@@ -26,7 +26,7 @@ A collection of Jupyter notebooks showcasing fundamental funtionality and use ca
 
 -->
 ### Use Cases
-- **[Pandas Analysis of Loan Book](./pandas_analysis_loan_book.ipynb)**: One possible setup with MASTIX Studio is running scheduled batch calculations and analyzing the results using analytics libraries. Among data scientists, the Pandas Python library is particularly popular. In this notebook, we demonstrate how to initiate a cash flow analysis using Pandas. We populate Pandas DataFrames with pre-calculated valuations and risks, and then perform some aggregations and visualizations.  
+- **[Pandas Analysis of Loan Book](./pandas_analysis_loan_book.ipynb)**: One possible setup with MASTIX ALM Studio is running scheduled batch calculations and analyzing the results using analytics libraries. Among data scientists, the Pandas Python library is particularly popular. In this notebook, we demonstrate how to initiate a cash flow analysis using Pandas. We populate Pandas DataFrames with pre-calculated valuations and risks, and then perform some aggregations and visualizations.  
 [View notebook on nbviewer](https://nbviewer.org/github/mastixstudio/notebooks/blob/main/pandas_analysis_loan_book.ipynb?flush_cache=true)
 
 - **[Basics of Change Attribution Analysis](#use-cases):** ***Coming soon!*** Explaining the changes in a simple calculation using the attribution tools.
@@ -46,6 +46,6 @@ A collection of Jupyter notebooks showcasing fundamental funtionality and use ca
 
 The Jupyter notebooks in this repository are free to use, distribute, and modify. They are distributed under the Apache License 2.0. See [LICENSE](./LICENSE) for more information.
 
-### MASTIX Studio
+### MASTIX ALM Studio
 
-MASTIX Studio **requires a license** and is not included within this repository. For additional information about MASTIX Studio, please connect with us on [LinkedIn](https://www.linkedin.com/company/mastix) or reach out to [info@mastix.se](mailto:info@mastix.se).
+MASTIX ALM Studio **requires a license** and is not included within this repository. For additional information about MASTIX ALM Studio, please connect with us on [LinkedIn](https://www.linkedin.com/company/mastix) or reach out to [info@mastix.se](mailto:info@mastix.se).
